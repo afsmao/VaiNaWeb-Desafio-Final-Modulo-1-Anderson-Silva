@@ -2,6 +2,6 @@
 
 **Cliente:** InovaTech Soluções Ltda.
 
-**Preparado por:** [Seu Nome/Nome da Sua Empresa Fictícia]
+**Preparado por:** [Anderson/SecSys]
 
-**Data:** 30/07/2025
+**Data:** 14/07/2025
