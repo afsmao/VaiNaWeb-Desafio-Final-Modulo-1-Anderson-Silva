@@ -7,4 +7,4 @@
 **Data:** 14/07/2025
 
 **Proposta:**
-- [Diagrama lógico da rede](proposta_tecnica.md)
+- [Proposta Técnica](proposta_tecnica.md)
