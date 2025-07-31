@@ -5,3 +5,6 @@
 **Preparado por:** [Anderson/SecSys]
 
 **Data:** 14/07/2025
+
+**Proposta:**
+- [Diagrama lógico da rede](proposta_tecnica.md)
